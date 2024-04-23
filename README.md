@@ -1,2 +1,6 @@
 # doc-factory
-Automatic Document Generation
+
+## Project Goals
+
+- Automatically implement documentation for a project.
+- Facilitate local testing via VSCode DevContainer.
