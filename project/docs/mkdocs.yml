@@ -1,9 +1,9 @@
-site_name: minikube-workbench
-site_description: minikube-workbench
+site_name: project-factory
+site_description: project-factory
 site_author: "Chris Mendoza"
 site_url: https://chris-mendoza.github.io
-repo_name: minikube-workbench
-repo_url: https://github.com/chris-mendoza/minikube-workbench
+repo_name: project-factory
+repo_url: https://github.com/chris-mendoza/project-factory
 
 # EDIT LINES ABOVE THIS ONE FOR A NEW REPOSITORY
 edit_uri: "edit/main/docs/docs/"
